@@ -1,0 +1,18 @@
+name: "Jessica Chavarria"
+navbar:
+  title: "Jessica's Site"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Portfolio"
+      href: portfolio.html
+  right: 
+    - icon: fa-envelope fa-lg
+      href: mailto:<jessica_chavarria@utexas.edu>
+    - icon: fab fa-github fa-lg
+      href: http://github.com/jesschavarria/
+    - icon: fab fa-linkedin fa-lg
+      href: http://linkedin.com/USERNAME
+    - icon: fab fa-instagram fa-lg
+      href: https://www.instagram.com/llunarjess/
+      
