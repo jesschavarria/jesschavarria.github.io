@@ -21,6 +21,6 @@ htmltools::tagList(rmarkdown::html_dependency_font_awesome())
 
 <br>
 
-- <i class="fa fa-chart-pie"> </i> [Project 2: Description](https://www.google.com)
+- <i class="fa fa-chart-pie"> </i> [Project 2: Analyzing GPA and MCAT Scores Among Medical School Applicants](https://jesschavarria.github.io/project2/)
 
-    - Longer Description
+    - The above project analyzed the relevance of college grades and standardized test scores on the admissions decisions of 54 medical school applicants.
